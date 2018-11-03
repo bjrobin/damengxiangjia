@@ -1,2 +1,2 @@
 # damengxiangjia
-javascript automated trading
+我的一些原创
